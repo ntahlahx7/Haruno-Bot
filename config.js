@@ -24,7 +24,7 @@ global.APIKeys = { // APIKey nya disini
   'https://pencarikode.xyz': 'APIKEY',
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'nyyxz-bot',
+  'https://api.zeks.xyz': 'f6898e891be84fcd',
   'https://api.lolhuman.xyz': '213c64b0ead30225391ce243',
   'https://api.vhtear.com': 'sayahafiz',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
